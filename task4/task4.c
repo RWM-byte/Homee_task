@@ -1,4 +1,4 @@
-int task4(int n) {
+int reverse_number(int n) {
     int reverse=0;
     int digit=0;
     if (n==0) {
