@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
+#include "task2.c"
 
 int task2(int n, int k);
 
